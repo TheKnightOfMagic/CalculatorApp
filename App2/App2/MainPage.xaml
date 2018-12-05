@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:App2"
+             x:Class="App2.MainPage">
+
+    <StackLayout>
+        <!-- Place new controls here -->
+        <Label x:Name="prevOutput" Text=""/>
+        <Label x:Name ="labelOutput" Text="0" 
+           HorizontalOptions="Start"
+           VerticalOptions="Start" 
+           Margin ="10,10,10,10"/>
+       
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="64"/>
+                <RowDefinition Height="64"/>
+                <RowDefinition Height="64"/>
+                <RowDefinition Height="64"/>
+                <RowDefinition Height="64"/>
+
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width ="64" />
+                <ColumnDefinition Width ="64" />
+                <ColumnDefinition Width ="64" />
+                <ColumnDefinition Width ="64" />
+            </Grid.ColumnDefinitions>
+            <Button Text ="C" Grid.Row="0" Grid.Column="1" Clicked="b_Clicked"/>
+            <Button  Text ="Del" Grid.Row="0" Grid.Column="2" Clicked="b_Clicked"/>
+            <Button  Text ="/" Grid.Row="0" Grid.Column="3"   Clicked="b_Clicked"/>
+            <Button Text ="7" Grid.Row="1" Grid.Column="0"  Clicked="b_Clicked"/>
+
+            <Button Text ="8" Grid.Row="1" Grid.Column="1" Clicked="b_Clicked"/>
+
+            <Button Text ="9" Grid.Row="1" Grid.Column="2"  Clicked="b_Clicked"/>
+
+            <Button Text ="*" Grid.Row="1" Grid.Column="3"  Clicked="b_Clicked"/>
+
+            <Button  Text ="4" Grid.Row="2" Grid.Column="0"  Clicked="b_Clicked"/>
+
+            <Button Text ="5" Grid.Row="2" Grid.Column="1" Clicked="b_Clicked"/>
+
+            <Button Text ="6" Grid.Row="2" Grid.Column="2"  Clicked="b_Clicked"/>
+
+            <Button Text ="-" Grid.Row="2" Grid.Column="3" Clicked="b_Clicked"/>
+
+            <Button  Text ="1" Grid.Row="3" Grid.Column="0"  Clicked="b_Clicked"/>
+
+            <Button  Text ="2" Grid.Row="3" Grid.Column="1" Clicked="b_Clicked"/>
+
+            <Button Text ="3" Grid.Row="3" Grid.Column="2" Clicked="b_Clicked"/>
+
+            <Button Text ="+" Grid.Row="3" Grid.Column="3"  Clicked="b_Clicked"/>
+
+            <Button Text ="0" Grid.Row="4" Grid.Column="1" Clicked="b_Clicked"/>
+            <Button Text ="=" Grid.Row="4" Grid.Column="3"  Clicked="b_Clicked"/>
+
+
+        </Grid>
+
+
+
+
+
+
+
+
+    </StackLayout>
+
+</ContentPage>
