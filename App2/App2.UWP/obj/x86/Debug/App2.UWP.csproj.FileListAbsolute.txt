@@ -298,3 +298,6 @@ C:\Users\anony\source\repos\App2\App2\App2.UWP\obj\x86\Debug\qualifiers.txt.inte
 C:\Users\anony\source\repos\App2\App2\App2.UWP\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
 C:\Users\anony\source\repos\App2\App2\App2.UWP\obj\x86\Debug\Xamarin.Forms.Platform.UAP.pri.xml
 C:\Users\anony\source\repos\App2\App2\App2.UWP\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\anony\source\repos\CalculatorApp\App2\App2.UWP\obj\x86\Debug\App2.UWP.csprojAssemblyReference.cache
+C:\Users\anony\source\repos\CalculatorApp\App2\App2.UWP\obj\x86\Debug\App2.UWP.exe
+C:\Users\anony\source\repos\CalculatorApp\App2\App2.UWP\obj\x86\Debug\App2.UWP.pdb

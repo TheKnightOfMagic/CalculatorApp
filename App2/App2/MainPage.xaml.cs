@@ -90,6 +90,7 @@ namespace App2
                 {
                     result = (Convert.ToDouble(input[0]) * Convert.ToDouble(input[1])).ToString();
                 }
+                input[0] = result;
                 labelOutput.Text = result;
             }
 

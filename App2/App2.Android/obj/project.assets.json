@@ -784,11 +784,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\anony\\source\\repos\\App2\\App2\\App2.Android\\App2.Android.csproj",
+      "projectUniqueName": "C:\\Users\\anony\\source\\repos\\CalculatorApp\\App2\\App2.Android\\App2.Android.csproj",
       "projectName": "App2.Android",
-      "projectPath": "C:\\Users\\anony\\source\\repos\\App2\\App2\\App2.Android\\App2.Android.csproj",
+      "projectPath": "C:\\Users\\anony\\source\\repos\\CalculatorApp\\App2\\App2.Android\\App2.Android.csproj",
       "packagesPath": "C:\\Users\\anony\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\anony\\source\\repos\\App2\\App2\\App2.Android\\obj\\",
+      "outputPath": "C:\\Users\\anony\\source\\repos\\CalculatorApp\\App2\\App2.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -805,8 +805,8 @@
       "frameworks": {
         "monoandroid81": {
           "projectReferences": {
-            "C:\\Users\\anony\\source\\repos\\App2\\App2\\App2\\App2.csproj": {
-              "projectPath": "C:\\Users\\anony\\source\\repos\\App2\\App2\\App2\\App2.csproj"
+            "C:\\Users\\anony\\source\\repos\\CalculatorApp\\App2\\App2\\App2.csproj": {
+              "projectPath": "C:\\Users\\anony\\source\\repos\\CalculatorApp\\App2\\App2\\App2.csproj"
             }
           }
         }

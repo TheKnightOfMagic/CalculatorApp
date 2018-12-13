@@ -722,11 +722,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\anony\\source\\repos\\App2\\App2\\App2.iOS\\App2.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\anony\\source\\repos\\CalculatorApp\\App2\\App2.iOS\\App2.iOS.csproj",
       "projectName": "App2.iOS",
-      "projectPath": "C:\\Users\\anony\\source\\repos\\App2\\App2\\App2.iOS\\App2.iOS.csproj",
+      "projectPath": "C:\\Users\\anony\\source\\repos\\CalculatorApp\\App2\\App2.iOS\\App2.iOS.csproj",
       "packagesPath": "C:\\Users\\anony\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\anony\\source\\repos\\App2\\App2\\App2.iOS\\obj\\",
+      "outputPath": "C:\\Users\\anony\\source\\repos\\CalculatorApp\\App2\\App2.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -743,8 +743,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\anony\\source\\repos\\App2\\App2\\App2\\App2.csproj": {
-              "projectPath": "C:\\Users\\anony\\source\\repos\\App2\\App2\\App2\\App2.csproj"
+            "C:\\Users\\anony\\source\\repos\\CalculatorApp\\App2\\App2\\App2.csproj": {
+              "projectPath": "C:\\Users\\anony\\source\\repos\\CalculatorApp\\App2\\App2\\App2.csproj"
             }
           }
         }

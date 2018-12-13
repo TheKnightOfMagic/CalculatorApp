@@ -350,11 +350,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\anony\\source\\repos\\App2\\App2\\App2\\App2.csproj",
+      "projectUniqueName": "C:\\Users\\anony\\source\\repos\\CalculatorApp\\App2\\App2\\App2.csproj",
       "projectName": "App2",
-      "projectPath": "C:\\Users\\anony\\source\\repos\\App2\\App2\\App2\\App2.csproj",
+      "projectPath": "C:\\Users\\anony\\source\\repos\\CalculatorApp\\App2\\App2\\App2.csproj",
       "packagesPath": "C:\\Users\\anony\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\anony\\source\\repos\\App2\\App2\\App2\\obj\\",
+      "outputPath": "C:\\Users\\anony\\source\\repos\\CalculatorApp\\App2\\App2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
